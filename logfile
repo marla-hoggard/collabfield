@@ -1,0 +1,11 @@
+2018-04-18 10:23:24.141 EDT [51267] LOG:  listening on IPv6 address "::1", port 5432
+2018-04-18 10:23:24.141 EDT [51267] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2018-04-18 10:23:24.172 EDT [51267] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2018-04-18 10:23:24.182 EDT [51268] LOG:  database system was shut down at 2018-04-18 10:23:02 EDT
+2018-04-18 10:23:24.220 EDT [51267] LOG:  database system is ready to accept connections
+2018-04-18 10:23:46.203 EDT [51279] FATAL:  database "collabfield_development" does not exist
+2018-04-18 10:25:37.917 EDT [51316] FATAL:  database "collabfield_development" does not exist
+2018-04-18 10:34:11.691 EDT [51589] FATAL:  database "collabfield_development" does not exist
+2018-04-18 10:36:41.546 EDT [51611] ERROR:  unrecognized role option "collabfield_development" at character 30
+2018-04-18 10:36:41.546 EDT [51611] STATEMENT:  create role collabfield with collabfield_development login password 'jklein';
+2018-04-18 10:38:51.021 EDT [51746] FATAL:  database "collabfield_development" does not exist
