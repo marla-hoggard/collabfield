@@ -12,5 +12,12 @@
  *
  */
 
+// Bootstrap
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+// Variables
+@import "base/variables"; //Must import above files that use them!
+
+// Partials - main css files
+@import "partials/layout/*";

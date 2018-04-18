@@ -9,3 +9,41 @@
 2018-04-18 10:36:41.546 EDT [51611] ERROR:  unrecognized role option "collabfield_development" at character 30
 2018-04-18 10:36:41.546 EDT [51611] STATEMENT:  create role collabfield with collabfield_development login password 'jklein';
 2018-04-18 10:38:51.021 EDT [51746] FATAL:  database "collabfield_development" does not exist
+2018-04-18 11:45:01.290 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:01.973 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:01.973 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:02.655 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:02.655 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:03.338 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:03.338 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:04.024 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:04.024 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:04.706 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:04.706 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:05.391 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:05.391 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:05.671 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:05.671 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:06.071 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:06.071 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:06.754 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:06.755 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:07.443 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:07.443 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:08.128 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:08.128 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:08.812 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:08.812 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:09.499 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:09.499 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:10.184 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:10.184 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:10.865 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:10.865 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:11.545 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:11.545 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:11.973 EDT [51272] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2018-04-18 11:45:11.973 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:11.973 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:12.654 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2018-04-18 11:45:12.654 EDT [51273] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
