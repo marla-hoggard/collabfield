@@ -19,5 +19,9 @@
 // Variables
 @import "base/variables"; //Must import above files that use them!
 
-// Partials - main css files
+// Default styles
+@import "base/default";
+
+// Partials (main css files)
+@import "partials/*";
 @import "partials/layout/*";
