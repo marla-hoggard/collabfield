@@ -17,3 +17,6 @@ module Collabfield
     # the framework and any gems in your application.
   end
 end
+
+# Only include helpers in views that correspond to its controller (MANUALLY ADDED)
+config.action_controller.include_all_helpers = false
